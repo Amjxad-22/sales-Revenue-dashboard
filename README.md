@@ -14,4 +14,5 @@ This Power BI dashboard analyzes sales performance and revenue trends.
 - Regional Sales Analysis
 
 ## Dashboard Preview
-(Add your dashboard screenshot here)
+<img width="1132" height="630" alt="Screenshot 2026-06-17 211103" src="https://github.com/user-attachments/assets/df7d5b3a-2e9b-49ea-be16-3526d1bd94c0" />
+
